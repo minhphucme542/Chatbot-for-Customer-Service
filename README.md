@@ -3,13 +3,13 @@
 
 ## Introduction
 
-----------
+---
 
 This project showcases a chatbot built using PyTorch and NLTK (Natural Language Toolkit). The chatbot is designed to understand and respond to user input in a conversational manner.
 
 ## Getting Started
 
-----------
+---
 
 To get started with the project, follow these steps:
 
@@ -19,8 +19,7 @@ To get started with the project, follow these steps:
 
 ## Training and Running the Chatbot
 
-----------
-
+---
 ### Training the Model
 
 To train the model, run  `python train.py`. This will use the PyTorch library to train a neural network model on a dataset of conversations. The model will learn to recognize patterns in language and respond accordingly.
@@ -31,7 +30,7 @@ Once the model is trained, you can start chatting with the bot by running  `pyth
 
 ## Screenshots
 
-----------
+---
 
 Here are some screenshots of the chatbot in action:
 
@@ -45,7 +44,7 @@ This screenshot shows the chatbot engaging in a conversation with the user.
 
 ## Technology Stack
 
-----------
+---
 
 -   **PyTorch**: A popular deep learning library used to build and train the neural network model.
 -   **NLTK**: A comprehensive library of NLP tasks, used for text processing and tokenization.
@@ -53,6 +52,6 @@ This screenshot shows the chatbot engaging in a conversation with the user.
 
 ## Conclusion
 
-----------
+---
 
 This chatbot project demonstrates the use of PyTorch and NLTK to build a conversational AI model. With its ability to understand and respond to user input, this chatbot has the potential to be used in a variety of applications, from customer service to language learning.
